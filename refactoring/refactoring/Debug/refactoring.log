@@ -1,0 +1,4 @@
+﻿  refactoring.cpp
+C:\Users\Lucas\Desktop\C++ project location\refactoring\refactoring\refactoring\refactoring.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lucas\Desktop\C++ project location\refactoring\refactoring\refactoring\refactoring.cpp(83,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  refactoring.vcxproj -> C:\Users\Lucas\Desktop\C++ project location\refactoring\refactoring\Debug\refactoring.exe
